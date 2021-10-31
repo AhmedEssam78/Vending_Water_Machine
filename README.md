@@ -8,3 +8,5 @@ stop the water:
 1- The user presses the push button while pouring
 2- Thirty seconds have passed without any interaction
 3- The user adds more amount of money
+
+The source code is in "AEssam_Final_Project.srcs" folder
